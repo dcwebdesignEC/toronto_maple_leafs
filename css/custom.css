@@ -41,12 +41,12 @@ p{
 }
 
 
-img{
+.pull-left{
 	margin-right: 10px;
 	margin-left: 10px;
 	margin-top: 5px;
+	
 }
-
 footer{
 	background-color: #0b397f;
 	padding: .5% 2% ;
